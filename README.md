@@ -20,7 +20,7 @@ The project follows these steps:
 ### **Installation**
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PromptMed.git
+    git clone https://github.com/AI-AmrIbrahim/PromptMed.git
     cd PromptMed
     ```
 
