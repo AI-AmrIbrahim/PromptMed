@@ -90,7 +90,13 @@ update_metrics(
     bert_scores=bert_scores
 )
 ```
+## Future Work
+- Implement more diverse prompting techniques
+- Exploring dspy prompt optimization
+- Expanding on current dataset
 ## Acknowledgments
-Groupmates:
-- Solha Park (Stony Brook University Data Science PhD Candidate)
-- David Zhao (Stony Brook University Data Science PhD Candidate)
+- Groupmates:
+    - Solha Park (Stony Brook University Data Science PhD Candidate)
+    - David Zhao (Stony Brook University Data Science PhD Candidate)
+- Reference:
+    - [StanfordMIMI/clin-summ](https://github.com/StanfordMIMI/clin-summ)
